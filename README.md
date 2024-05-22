@@ -4,17 +4,16 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SinethB)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in//)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chamathkabandara48@gmail.com)
-
 &nbsp;
-**About me:**
 
+**About me:**
 <img width="55%" align="right" alt="Github" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" />
 
 - 🌱 I’m currently learning AWS and React; 
 - 🫡 I have basic knowledge of C, C++, Java, React and intermediary in Python
 - 📫 How to reach me: chamathkabandara48@gmail.com;
 
-
+#
 **Languages and Tools:** 
 
 <p>
@@ -35,9 +34,6 @@
   
 </p>
 
-<p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/SinethB/SinethB.svg" />
-</p>
 
 
 
