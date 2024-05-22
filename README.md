@@ -17,12 +17,7 @@
 **Languages and Tools:** 
 
 <p>
-  <a>
-    <img width="55%" align="right" alt="SinethB's github stats" src="https://github-readme-stats.vercel.app/api?username=SinethB&show_icons=true&theme=transparent" />
-  </a>
 
-
-  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
@@ -32,6 +27,13 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <br />
   
+  # 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinethB&layout=donut&show_icons=true&theme=transparent)](https://github.com/SinethB/github-readme-stats)
+  <a>
+    <img width="55%" align="right" alt="SinethB's github stats" src="https://github-readme-stats.vercel.app/api?username=SinethB&show_icons=true&theme=transparent" />  
+  </a>
+  
+  # 
 </p>
 
 
