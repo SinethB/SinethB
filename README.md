@@ -9,8 +9,8 @@
 **About me:**
 <img width="55%" align="right" alt="Github" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" />
 
-🌱 I’m currently learning AWS and React  
-🫡 I have basic knowledge of C, C++, Java, React and intermediary in Python  
+🌱 I’m currently learning computer vision and AI  
+🫡 I have knowledge programing languages like C, C++, Java, React and Python  
 📫 How to reach me: chamathkabandara48@gmail.com  
 
 #
